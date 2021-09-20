@@ -1,0 +1,16 @@
+{
+  "name": "cli-crm",
+  "version": "1.0.0",
+  "description": "cli command line for manipulating and finding tenant info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnathan Raiss",
+  "license": "ISC",
+  "dependencies": {
+    "index.js": "0.0.3",
+    "inquirer": "^8.1.5",
+    "readline": "^1.3.0"
+  }
+}
